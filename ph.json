@@ -400,28 +400,6 @@
         "name": "FourKHDHub"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
-        "jarFileSize": 61028,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 14605,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "Funmovieslix",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.jar",
-        "description": "Indonesia Source",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.cs3",
-        "name": "Funmovieslix"
-    },
-    {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "jarFileSize": 205073,
         "apiVersion": 1,
