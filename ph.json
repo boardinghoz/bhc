@@ -441,47 +441,6 @@
         "name": "HiAnime"
     },
     {
-        "iconUrl": "https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png",
-        "jarFileSize": 44475,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 11993,
-        "status": 1,
-        "authors": [
-            "HindiProviders"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "IndianTVProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IndianTVProvider.jar",
-        "description": "Indian TV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IndianTVProvider.cs3",
-        "name": "IndianTVProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
-        "jarFileSize": 71340,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 17295,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98,Adippe"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 5,
-        "internalName": "IPTVPlayer",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
-        "description": "IPTV Player",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.cs3",
-        "name": "IPTVPlayer"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kdramahood.com&sz=%size%",
         "jarFileSize": 79885,
         "apiVersion": 1,
@@ -570,27 +529,6 @@
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/TVVV.png",
-        "jarFileSize": 71810,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 16511,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "LiveTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LiveTV.jar",
-        "description": "Live TV and Live Events",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LiveTV.cs3",
-        "name": "LiveTV"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MassTamilanProvider/icon.png",
@@ -809,48 +747,6 @@
         "name": "Pinoymoviepedia"
     },
     {
-        "iconUrl": "https://www.thestatesman.com/wp-content/uploads/2021/05/fancode.jpg",
-        "jarFileSize": 40611,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 10334,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "PublicSportsIPTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.jar",
-        "description": "Sports Live Streams",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.cs3",
-        "name": "PublicSportsIPTV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "jarFileSize": 142207,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 21466,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 5,
-        "internalName": "QuickIPTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.jar",
-        "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.cs3",
-        "name": "QuickIPTV"
-    },
-    {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
         "jarFileSize": 330023,
         "apiVersion": 1,
@@ -984,27 +880,6 @@
         "name": "Telugumv"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tennistream.com&sz=%size%",
-        "jarFileSize": 61644,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 13034,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "Tennistream",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.jar",
-        "description": "Tennistream",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.cs3",
-        "name": "Tennistream"
-    },
-    {
         "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
         "jarFileSize": 67553,
         "apiVersion": 1,
@@ -1133,28 +1008,6 @@
         "description": "Indian Multi-language 4K Provider",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=watchmmafull.com/&sz=%size%",
-        "jarFileSize": 80756,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 16624,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Other",
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "WatchMMAFull",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/WatchMMAFull.jar",
-        "description": "MMA Videos",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/WatchMMAFull.cs3",
-        "name": "WatchMMAFull"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
