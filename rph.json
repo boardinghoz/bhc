@@ -3,6 +3,6 @@
     "description": "Phisher Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/boardinghoz/bhc/refs/heads/main/ph.json
+      "https://raw.githubusercontent.com/boardinghoz/bhc/refs/heads/main/ph.json"
     ]
   }
